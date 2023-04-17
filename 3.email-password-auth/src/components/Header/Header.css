@@ -1,0 +1,11 @@
+.header{
+    padding: 10px;
+    margin: 10px auto;
+    width: 100%;
+    text-align: center;
+}
+.header a{
+    padding: 10px;
+    font-size: medium;
+    text-decoration: none;
+}

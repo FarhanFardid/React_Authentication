@@ -1,0 +1,15 @@
+form{
+    margin: 10px auto;
+    text-align: center;
+
+}
+form label{
+    display: block;
+    padding: 5px;
+}
+.sub-btn{
+    display: block;
+    margin: 5px auto;
+    padding: 5px;
+   
+}
