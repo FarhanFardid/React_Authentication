@@ -7,7 +7,7 @@ const Home = () => {
     console.log(user);
     return (
         <div>
-            <h2>This is home {user && <span>{user}</span> }</h2>
+            <h2>Welcome to website Home page  {user && <span>{user.email}</span> }</h2>
             <p></p>
         </div>
     );
